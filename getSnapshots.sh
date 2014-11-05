@@ -1,0 +1,1 @@
+livestreamer -p "'/Applications/VLC.app/Contents/MacOS/VLC' -V dummy --video-filter scene --scene-ratio=30 --scene-path=/Users/MarkyMark/workspace/twitchtesting/vlc-cli-test --intf dummy --rate 4" twitch.tv/scglive/c/4234377 best
